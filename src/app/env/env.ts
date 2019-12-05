@@ -3,7 +3,7 @@
   export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "AIzaSyDnbwQPgX_pU-D765GdcEfKMAxCid0JUXw",
+     
     authDomain: "timesheetapp-10c5f.firebaseapp.com",
     databaseURL: "https://timesheetapp-10c5f.firebaseio.com",
     projectId: "timesheetapp-10c5f",
